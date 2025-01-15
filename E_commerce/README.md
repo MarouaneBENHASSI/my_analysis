@@ -6,7 +6,9 @@ This analysis uses the e-commerce sales dataset from January 1, 2023, onward to 
 Tools I Used 
 ------------
 For my deep dive into the data analyst job market, I harnessed the power of several key tools:
+
 Python: The backbone of my analysis, allowing me to analyze the data and find critical insights.
+
 I also used the following Python libraries: 
 Pandas Library: This was used to analyze the data. 
 Matplotlib Library: I visualized the data. 
