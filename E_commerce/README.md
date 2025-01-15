@@ -5,14 +5,13 @@ This analysis uses the e-commerce sales dataset from January 1, 2023, onward to 
 
 Tools I Used 
 ------------
-For my deep dive into the data analyst job market, I harnessed the power of several key tools:
-
+For my deep dive into the data analyst job market, I harnessed the power of several key tools:<br>
 Python: The backbone of my analysis, allowing me to analyze the data and find critical insights.
 
 I also used the following Python libraries: <br>
-Pandas Library: This was used to analyze the data. 
-Matplotlib Library: I visualized the data. 
-Seaborn Library: Helped me create more advanced visuals. 
-Jupyter Notebooks: The tool I used to run my Python scripts which let me easily include my notes and analysis. 
-Visual Studio Code: My go-to for executing my Python scripts. 
+Pandas Library: This was used to analyze the data. <br>
+Matplotlib Library: I visualized the data. <br>
+Seaborn Library: Helped me create more advanced visuals. <br>
+Jupyter Notebooks: The tool I used to run my Python scripts which let me easily include my notes and analysis. <br>
+Visual Studio Code: My go-to for executing my Python scripts. <br>
 Git & GitHub: Essential for version control and sharing my Python code and analysis, ensuring collaboration and project tracking.
